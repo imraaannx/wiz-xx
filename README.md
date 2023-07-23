@@ -1,1 +1,1 @@
-# wiz-xx
+# wiz-x
